@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>APOORV</Machine>
+    <WindowsUser>ApoorvUpadhyay</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>266939AFC6155544BDFBEE212AD7FC620FD4A3097475BD151D6F799DBF6B4B40</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bb0c81b7-69e4-45d7-bb6e-c5f22fd20acf_1.0.0.0_neutral__3jpqh63b68rrg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bb0c81b7-69e4-45d7-bb6e-c5f22fd20acf_3jpqh63b68rrg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bb0c81b7-69e4-45d7-bb6e-c5f22fd20acf</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ApoorvUpadhyay</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-07T08:22:18.105</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\bin\Debug\Bit.Ly URL Shortner.exe">
+      <PackagePath>Bit.Ly URL Shortner.exe</PackagePath>
+      <Modified>2012-11-07T08:24:22.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\bin\Debug\Bit.Ly URL Shortner.pdb">
+      <PackagePath>Bit.Ly URL Shortner.pdb</PackagePath>
+      <Modified>2012-11-07T08:24:22.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-06T23:15:06.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-06T23:15:30.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-06T23:13:49.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-06T23:15:21.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-06T23:14:32.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Assets\plain-victorian-gothic-violet-by-xsayarsa-wallpaper.jpg">
+      <PackagePath>Assets\plain-victorian-gothic-violet-by-xsayarsa-wallpaper.jpg</PackagePath>
+      <Modified>2012-11-06T23:10:44.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Assets\Red_button.jpg">
+      <PackagePath>Assets\Red_button.jpg</PackagePath>
+      <Modified>2012-11-06T23:10:55.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-06T08:19:14.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-07T08:24:21.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ApoorvUpadhyay\Downloads\Bit.Ly URL Shortner\Bit.Ly URL Shortner\Bit.Ly URL Shortner\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-06T23:16:09.032</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
